@@ -1,0 +1,47 @@
+Push Instructions
+    -git add .
+    -git commit -m "msg"
+    -git push origin main
+
+User Auth and Reg
+    -Auth ✔️
+    -Add new User ✔️ (no need)
+    -Edit new User ✔️ (no need)
+    -Delete new User ✔️ (no need)
+    
+
+Navigations
+    -Home ✔️
+    -Records ✔️
+    -About ✔️ (no content yet)
+    -Logout ✔️
+
+Pages
+    -Dashbaord ✔️
+    -Records ✔️
+    -About ✔️ (no content yet)
+    -View Profile ✔️
+    
+    
+Crud Operations
+    -Fetch Record (fix fetching) ✔️
+    -Search ✔️
+    -Pagination ✔️
+    -View 2 ✔️
+    -Edit 3 ✔️ 
+    -Delete 1 ✔️
+
+Leaflet file Layer
+    -fuck
+
+
+Bugs 
+    -after adding, updating, deleting records needs to refreash entire page to render records
+    -add ✔️
+    -delete ✔️ 
+    -login (delete cokies) ✔️
+    
+
+To Do before Deploying
+    -add the captcha
+

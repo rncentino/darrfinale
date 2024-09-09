@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>try</name>
+	<gx:CascadingStyle kml:id="__managed_style_2B12CE7C7131EE1F828A">
+		<Style>
+			<IconStyle>
+				<scale>0.6</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_175C28EBDA31EE1F828A">
+		<Style>
+			<IconStyle>
+				<scale>0.5</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_022C2EB78F31EE1F828A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_175C28EBDA31EE1F828A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B12CE7C7131EE1F828A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="0BB504E7C731EE1EE62C">
+		<name>Layers</name>
+		<open>1</open>
+		<Placemark id="09CBB2B68831EE1E5FCF">
+			<name>PLS-857-D Drawing</name>
+			<styleUrl>#__managed_style_022C2EB78F31EE1F828A</styleUrl>
+			<MultiGeometry>
+				<LinearRing>
+					<coordinates>
+						124.581886417726,12.379538615622,0 124.582959606268,12.3799069434,0 124.583065026928,12.380736858506,0 124.583010412156,12.38186917128,0 124.586653562392,12.381552033859,0 124.586521683961,12.380583952784,0 124.586286652924,12.379544479143,0 124.586184730679,12.378705892267,0 124.585893521772,12.378350633716,0 124.585623581152,12.377979498083,0 124.583491213701,12.377058562699,0 124.583126546994,12.377380076576,0 124.582291006871,12.377849103895,0 124.582131810487,12.378485517995,0 124.582710168388,12.378857772113,0 124.581766273824,12.37934127241,0 124.581886417726,12.379538615622,0 
+					</coordinates>
+				</LinearRing>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

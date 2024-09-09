@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<kml>
+<Document>
+<name>MASTER MAP.dwg</name>
+<Style id="s1">
+<LineStyle>
+<color>00ffffff</color>
+<width>2</width>
+</LineStyle>
+<IconStyle>
+<scale>0.5</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+</IconStyle>
+<LabelStyle><scale>0</scale></LabelStyle>
+</Style><Folder><name>Layers</name><Placemark><name>PLS-857-D Drawing</name><styleUrl>#s1</styleUrl><MultiGeometry><LinearRing><coordinates>124.581886417726,12.379538615622 124.582959606268,12.379906943400 124.583065026928,12.380736858506 124.583010412156,12.381869171280 124.586653562392,12.381552033859 124.586521683961,12.380583952784 124.586286652924,12.379544479143 124.586184730679,12.378705892267 124.585893521772,12.378350633716 124.585623581152,12.377979498083 124.583491213701,12.377058562699 124.583126546994,12.377380076576 124.582291006871,12.377849103895 124.582131810487,12.378485517995 124.582710168388,12.378857772113 124.581766273824,12.379341272410 124.581886417726,12.379538615622</coordinates></LinearRing></MultiGeometry></Placemark></Folder></Document></kml>
